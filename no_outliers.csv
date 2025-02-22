@@ -1,0 +1,110 @@
+overall,verified,reviewTime,reviewerID,asin,reviewerName,reviewText,summary,unixReviewTime,style_Style:,style_Size:,style_Color:,vote,image,style_Size Name:,style_Style Name:,style_Package Quantity:,review_length,sentiment
+5.0,True,"08 5, 2015",A8R48NKTGCJDQ,B00009W3PA,CDBrannom,"['fit', 'new', 'lg', 'dryer', 'perfectly']",Five Stars,1438732800,, 6-Foot,,,,,,,30,Positive
+5.0,True,"12 26, 2013",A1RQQV9HYHDHDN,B00009W3PA,Adam Baer,"['purchasaed', 'new', 'dryer', 'want', 'reuse', 'cord', 'old', 'unit', 'unit', 'installed', 'pretty', 'straight', 'forward', 'manor', 'quality', 'expected', 'complaint']",Easy install,1388016000,, 6-Foot,,,,,,,172,Positive
+5.0,True,"04 24, 2015",AR3OHHHW01A8E,B00009W3PA,Calvin E Reames,"['good', 'value', 'electric', 'dryer']",Perfect size,1429833600,, 6-Foot,,,,,,,30,Positive
+5.0,True,"02 8, 2016",A1AHW6I678O6F2,B00009W3PA,kevin.,"['good', 'item']",Five Stars,1454889600,, 6-Foot,,,,,,,9,Positive
+5.0,True,"03 21, 2015",A2CIEGHZ7L1WWR,B00009W3PA,albert j. kong,"['price', 'delivery', 'excellent']",Five Stars,1426896000,, 6-Foot,,,,,,,33,Positive
+2.0,False,"07 6, 2017",A3LGZ8M29PBNGG,B000N6302Q,nerenttt,"['work', 'great', 'loved', 'till', 'didnt', 'last', 'buy', 'warranty', 'need']","the five star posts are from new owners, the rest from disgruntle owners 6 months in with broken icemaker!",1499299200,,, Blue,,,,,,103,Negative
+5.0,True,"04 30, 2016",A3GP2HMB2AFOKF,B000NCTOUM,Juan,"['great', 'product']",Five Stars,1461974400,,,,,,,,,13,Positive
+5.0,True,"11 11, 2015",AR3OHHHW01A8E,B000NCTOUM,Calvin E Reames,"['job', 'fixing', 'maytag', 'dryer']",Works on a Maytag also,1447200000,,,,,,,,,39,Positive
+5.0,True,"11 21, 2014",A1LN48DHHCKLR3,B000NCTOUM,Ernest Danel,"['received', 'ok']",Five Stars,1416528000,,,,,,,,,11,Positive
+2.0,True,"08 24, 2015",AJPRN1TD1A0SD,B000NCTOUM,transporter,['cheap'],Two Stars,1440374400,,,,,,,,,5,Negative
+5.0,True,"12 3, 2014",A11SCLK8GDDN3C,B000NCTOUM,mrclobhead,"['fine', 'product', 'advertised']",Five Stars,1417564800,,,,,,,,,40,Positive
+3.0,True,"08 29, 2014",A1H2V1GNEY4LZ0,B000XXWOGW,Handyman,"['connect', 'match', 'modidify', 'work']",Good delivery for the price.,1409270400,,,,,,,,,64,Neutral
+5.0,False,"10 10, 2014",A26M3TN8QICJ3K,B000XXWOGW,Marty Baker,"['great', 'needed']",Five Stars,1412899200,,,,,,,,,26,Positive
+1.0,True,"11 2, 2013",A2HDUVKXR5CM7H,B000XXWOGW,MIKE,"['see', 'original', 'remark', 'made', 'mistake', 'buying', 'dealer', 'problem', 'different', 'machine', 'save', 'money']",garbage,1383350400,,,,,,,,,127,Negative
+5.0,True,"11 1, 2015",A1RQQV9HYHDHDN,B00126NABC,Adam Baer,"['worked', 'expected', 'quality', 'ge', 'product', 'water', 'taste', 'good', 'would', 'recommend', 'buy']",Easy install,1446336000,,,,,,,,,94,Positive
+4.0,True,"09 12, 2011",A26Y776G7VVBCQ,B00126NABC,JPM,"['work', 'great', 'best', 'price', 'could', 'find', 'internest', 'shipped', 'quickly', 'problem', 'buy', '8', 'month', 'need', 'another', 'one']",Perfect Fit and OEM part,1315785600,,,,,,,,,145,Positive
+5.0,True,"03 8, 2015",A3B1B4E184FSUZ,B0015UGPWQ,jobeck1,[],Five Stars,1425772800,,,,,, 4 Inch,,,2,Positive
+5.0,True,"04 24, 2015",AR3OHHHW01A8E,B0015UGPWQ,Calvin E Reames,"['easy', 'install', 'dryer']",Don't forget when to install the securing devices,1429833600,,,,,, 4 Inch,,,21,Positive
+5.0,True,"07 3, 2016",A1RQQV9HYHDHDN,B0015UGPWQ,Adam Baer,"['moved', 'new', 'apt', 'needed', 'dryer', 'vent', 'hose', 'fit', 'bill', 'compression', 'clamp', 'made', 'install', 'snap']",Quick and easy install,1467504000,,,,,, 4 Inch,,,106,Positive
+5.0,True,"08 5, 2015",A8R48NKTGCJDQ,B0015UGPWQ,CDBrannom,"['fit', 'perfectly']",Five Stars,1438732800,,,,,, 4 Inch,,,14,Positive
+4.0,True,"08 22, 2013",A34A1UP40713F8,B0015UGPWQ,James. Backus,"['use', 'clamp', 'rather', 'used', 'screw', 'clamp', 'fit', 'well', 'proper', 'height']",Worked,1377129600,,,,,, 4 Inch,,,103,Positive
+5.0,True,"01 21, 2016",A1AHW6I678O6F2,B001769IVI,kevin.,"['must', 'washer']",Five Stars,1453334400,,,,,,,,,18,Positive
+5.0,True,"08 16, 2015",A1Y4UNHRP312HS,B001769IVI,Colorado Jerry,"['used', '2', 'hose', 'replace', 'original', 'equipment', 'rubber', 'hose', 'previous', 'experience', 'hose', 'gave', 'peace', 'mind', 'would', 'away', 'home', 'extended', 'vacation', 'expect', 'year', 'leakfree', 'use']",I used these (2) hoses to replace the original equipment ...,1439683200,,,,,,,,,223,Positive
+3.0,True,"08 5, 2015",A8R48NKTGCJDQ,B001769IVI,CDBrannom,"['hose', 'included', 'machine', 'didnt', 'need', 'otherwise', 'would', 'fine']",Otherwise it would have been fine.,1438732800,,,,,,,,,95,Neutral
+5.0,True,"02 21, 2017",A13391AZAFJ67K,B001DHLGOS,Fred A,['good'],Five Stars,1487635200,,,,,,,,,4,Positive
+5.0,True,"03 8, 2016",A3GP2HMB2AFOKF,B001DHLGOS,Juan,"['great', 'product']",Five Stars,1457395200,,,,,,,,,13,Positive
+5.0,True,"02 22, 2014",A3J8IC20SGBS2O,B001DHLGOS,Mr and Mrs Burk,"['price', 'go', 'appliance', 'part', 'look', 'elsewhere', 'save', 'money', 'sooooo', '30', 'minute', 'tube', 'looking', 'video', 'showing', 'install', 'element', 'could', 'save', '100', 'buck', 'mr', 'burke']",reasonably priced,1393027200,,,,,,,,,222,Positive
+2.0,True,"08 24, 2015",AJPRN1TD1A0SD,B001DHLGOS,transporter,['cheap'],Two Stars,1440374400,,,,,,,,,5,Negative
+5.0,True,"11 21, 2014",A1LN48DHHCKLR3,B001DHLGOS,Ernest Danel,"['received', 'ok']",Five Stars,1416528000,,,,,,,,,11,Positive
+5.0,True,"11 2, 2016",A23KSPVPHZF6EO,B001DPFP88,Angela Samos Guardia,"['worked', 'great', 'thank']",Five Stars,1478044800,,,,,,,,,23,Positive
+5.0,True,"03 8, 2016",A3GP2HMB2AFOKF,B001DPFP88,Juan,"['great', 'product']",Five Stars,1457395200,,,,,,,,,13,Positive
+5.0,False,"10 10, 2014",A26M3TN8QICJ3K,B001DPFP88,Marty Baker,"['great', 'needed']",Five Stars,1412899200,,,,,,,,,26,Positive
+5.0,True,"01 17, 2016",A6FPI5CM4W5WB,B001DPFP88,Tim Veteto,"['good', 'job']",Good  Job,1452988800,,,,,,,,,9,Positive
+5.0,True,"12 10, 2014",AVGG8CYK8K312,B001DPFP88,Larry,"['great', 'price', 'keep', 'one', 'stock']",Washer clutch,1418169600,,,,,,,,,31,Positive
+5.0,True,"06 3, 2017",A3H61AMBJ177DG,B00470A1S0,Randy Bailey,['advertised'],Five Stars,1496448000,,,,,,,,,13,Positive
+5.0,True,"11 20, 2014",A37DQO5LU8DXTV,B00470A1S0,Easy Appliance,"['sorry', 'took', 'long', 'leave', 'feedback', 'amazing', 'businessman', 'thank']",you are an amazing businessman. Thank you again,1416441600,,,,,,,,,105,Positive
+2.0,True,"05 26, 2016",A1HWFUO5PKB2RW,B00470A1S0,Greg bernal,"['last', '6', 'mouth', 'u', 'get', 'agian']",temp fix,1464220800,,,,,,,,,46,Negative
+5.0,True,"04 17, 2018",A13391AZAFJ67K,B00470A1S0,Fred A,['good'],Five Stars,1523923200,,,,,,,,,4,Positive
+5.0,True,"07 4, 2015",A6FPI5CM4W5WB,B00470A1S0,Tim Veteto,"['great', 'product', 'time']",Great,1435968000,,,,,,,,,23,Positive
+5.0,True,"06 21, 2017",A329823SXZ8IBE,B004UB1O9Q,J!,"['fit', 'perfectly', 'fridge', 'leak', 'water', 'taste', 'great']",Awesome,1498003200, 3 Pack,,,,,,,,65,Positive
+5.0,True,"08 24, 2015",A1Y4UNHRP312HS,B004UB1O9Q,Colorado Jerry,"['water', 'filter', 'designed', 'samsung', 'refrigerator', 'operate', 'leak', 'free']",Five Stars,1440374400, 1 Pack,,,,,,,,84,Positive
+5.0,True,"06 12, 2017",A1Y4UNHRP312HS,B004UB1O9Q,Colorado Jerry,"['oem', 'filter', 'work', 'perfectly', 'expected', 'supply', 'great', 'tasting', 'water', 'remove', 'many', 'toxin', 'according', 'literature', 'accompanies']",It supplies great tasting water and removes many toxins,1497225600, 3 Pack,,,,,,,,152,Positive
+5.0,True,"02 12, 2016",A329823SXZ8IBE,B004UB1O9Q,J!,"['fit', 'samsung', 'fridge', 'easy', 'replace']",The filter I needed,1455235200,,,,,,, 2 Pack,,41,Positive
+5.0,True,"03 8, 2016",A3GP2HMB2AFOKF,B004XLDDNI,Juan,"['great', 'product']",Five Stars,1457395200,,,,,,,,,13,Positive
+5.0,True,"12 3, 2014",A11SCLK8GDDN3C,B004XLDDNI,mrclobhead,"['fine', 'product', 'advertised']",Five Stars,1417564800,,,,,,,,,40,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B004XLDDNI,Amazon Customer,"['great', 'part']",Five Stars,1451952000,,,,,,,,,11,Positive
+5.0,True,"04 24, 2016",A13391AZAFJ67K,B004XLDDNI,Fred A,['good'],Five Stars,1461456000,,,,,,,,,4,Positive
+5.0,True,"07 4, 2015",A6FPI5CM4W5WB,B004XLDDNI,Tim Veteto,['great'],Great,1435968000,,,,,,,,,5,Positive
+2.0,True,"08 24, 2015",AJPRN1TD1A0SD,B004XLDE5A,transporter,['cheap'],Two Stars,1440374400,,,,,,,,,5,Negative
+5.0,True,"02 23, 2015",A26M3TN8QICJ3K,B004XLDE5A,Marty Baker,"['excellent', 'exactly', 'needed']",Five Stars,1424649600,,,,,,,,,33,Positive
+5.0,True,"11 19, 2014",AFUVGAUNQVT0S,B004XLDE5A,Brian M.,"['common', 'failure', 'part', 'dryer', 'great', 'price', 'replacement', 'still', 'margin', 'make', 'money', 'repair', 'right', 'time', 'first', 'time']",but with the great price on these replacements I still have margin to ...,1416355200,,,,,,,,,159,Positive
+5.0,True,"08 13, 2015",A37DQO5LU8DXTV,B004XLDE5A,Easy Appliance,['good'],Five Stars,1439424000,,,,,,,,,4,Positive
+5.0,True,"01 1, 2015",A1AJW9DILZFTQI,B004XLDHSE,Riteway Appliance,"['right', 'time', 'work', 'great']",Five Stars,1420070400,,,,,,,,,29,Positive
+5.0,True,"11 2, 2013",A2HDUVKXR5CM7H,B004XLDHSE,MIKE,"['work', 'great', 'instruction', 'made', 'job', 'simply', 'need', 'right', 'tool', 'purchase', 'kit', 'dog', 'ear', 'well', 'worth', 'couple', 'extra', 'penny']",worth the money,1383350400,,,,,,,,,143,Positive
+5.0,True,"11 27, 2014",A2O7BWHBIV1HWZ,B004XLDHSE,A/C dude,"['worked', 'great']",Five Stars,1417046400,,,,,,,,,14,Positive
+5.0,True,"03 21, 2015",A2CIEGHZ7L1WWR,B004XLDHSE,albert j. kong,"['price', 'delivery', 'excellent']",Five Stars,1426896000,,,,,,,,,33,Positive
+5.0,True,"11 25, 2014",A11SCLK8GDDN3C,B004XLDHSE,mrclobhead,"['great', 'problem', 'work', 'fine']",Five Stars,1416873600,,,,,,,,,37,Positive
+5.0,True,"03 8, 2016",A3GP2HMB2AFOKF,B0053F80JA,Juan,"['great', 'product']",Five Stars,1457395200,,,,,,,,,13,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B0053F80JA,Amazon Customer,"['working', 'great']",Five Stars,1451952000,,,,,,,,,13,Positive
+5.0,True,"03 21, 2015",A2CIEGHZ7L1WWR,B0053F80JA,albert j. kong,"['price', 'delivery', 'excellent']",Five Stars,1426896000,,,,,,,,,33,Positive
+2.0,True,"10 10, 2015",A1HWFUO5PKB2RW,B0053F80JA,Greg bernal,"['ok', 'part']",Two Stars,1444435200,,,,,,,,,7,Negative
+5.0,True,"07 4, 2015",A6FPI5CM4W5WB,B0053F80JA,Tim Veteto,['great'],Great,1435968000,,,,,,,,,5,Positive
+5.0,True,"08 13, 2015",A37DQO5LU8DXTV,B0056I99WG,Easy Appliance,['thanks'],Five Stars,1439424000,,,,,,,,,6,Positive
+5.0,True,"02 6, 2017",A3J8IC20SGBS2O,B0056I99WG,Mr and Mrs Burk,"['money', 'saver', 'doit', 'yourselferexcellent', 'quality']",Five Stars,1486339200,,,,,,,,,53,Positive
+5.0,True,"09 22, 2014",A6FPI5CM4W5WB,B0056I99WG,Tim Veteto,"['good', 'job']",Good job,1411344000,,,,,,,,,8,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B0056I99WG,Amazon Customer,"['dryer', 'working', 'great']",Five Stars,1451952000,,,,,,,,,19,Positive
+5.0,True,"08 13, 2015",A37DQO5LU8DXTV,B00570RQ0A,Easy Appliance,['good'],Five Stars,1439424000,,,,,,,,,4,Positive
+5.0,True,"02 23, 2015",A26M3TN8QICJ3K,B00570RQ0A,Marty Baker,"['excellent', 'exactly', 'needed']",Five Stars,1424649600,,,,,,,,,33,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B00570RQ0A,Amazon Customer,"['washer', 'washing']",Five Stars,1451952000,,,,,,,,,14,Positive
+5.0,True,"10 19, 2014",A2O7BWHBIV1HWZ,B00570RQ0A,A/C dude,"['worked', 'great']",Five Stars,1413676800,,,,,,,,,14,Positive
+5.0,True,"10 15, 2016",A13391AZAFJ67K,B00570RQ0A,Fred A,['good'],Five Stars,1476489600,,,,,,,,,4,Positive
+5.0,True,"11 1, 2016",A23KSPVPHZF6EO,B008YDSH6E,Angela Samos Guardia,"['worked', 'great', 'thank']",Five Stars,1477958400,,,,,,,,,23,Positive
+5.0,True,"11 27, 2014",A2O7BWHBIV1HWZ,B008YDSH6E,A/C dude,"['worked', 'great', 'wonder', 'long', 'last', 'guess', 'ill', 'find', 'product', 'easy', 'install']",Worked great!! I just wonder how long they last,1417046400,,,,,,,,,108,Positive
+5.0,False,"04 4, 2016",A3J8IC20SGBS2O,B008YDSH6E,Mr and Mrs Burk,"['technician', 'technician', 'since', '1971', 'used', 'supco', 'relay', '30', 'year', 'first', 'became', 'available', 'always', 'found', 'reliable', 'saved', 'carrying', '40', '50', 'type', 'relay', 'truck', 'mr', 'burke']","Totally reliable relays, 45 years experience",1459728000,,,,,,,,,255,Positive
+5.0,True,"12 21, 2016",AFUVGAUNQVT0S,B008YDSH6E,Brian M.,"['start', 'device', 'great', 'domestic', 'refrigeration', 'start', 'device', 'repair', 'exceed', 'original', 'device', 'easy', 'install']",Got compressor start problem?,1482278400,,,,,,,,,140,Positive
+5.0,True,"01 7, 2015",A1AJW9DILZFTQI,B008YDSH6E,Riteway Appliance,"['great', 'deal', 'fast', 'shipping']",Five Stars,1420588800,,,,,,,,,29,Positive
+5.0,True,"04 24, 2016",A11SCLK8GDDN3C,B00CW0O1EW,mrclobhead,"['fine', 'problem', 'report', 'definitely', 'recommend', 'friend']",Five Stars,1461456000,,,,,,,,,79,Positive
+5.0,True,"12 10, 2014",AVGG8CYK8K312,B00CW0O1EW,Larry,"['low', 'price', 'good', 'money', 'maker']",Thermal fuses,1418169600,,,,,,,,,35,Positive
+5.0,True,"03 7, 2017",A23KSPVPHZF6EO,B00CW0O1EW,Angela Samos Guardia,['wonderful'],Five Stars,1488844800,,,,,,,,,10,Positive
+5.0,True,"11 19, 2014",AFUVGAUNQVT0S,B00CW0O1EW,Brian M.,"['muti', 'pack', 'make', 'sure', 'always', 'part', 'finish', 'job', 'check', 'hand']",This muti pack makes sure I always have the part ...,1416355200,,,,,,,,,109,Positive
+5.0,True,"03 8, 2016",A3GP2HMB2AFOKF,B00CW0O1EW,Juan,"['great', 'product']",Five Stars,1457395200,,,,,,,,,13,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B00DM8J11Q,Amazon Customer,"['good', 'dog']",Five Stars,1451952000,,,,,,,,,10,Positive
+5.0,True,"06 21, 2015",A2CIEGHZ7L1WWR,B00DM8J11Q,albert j. kong,"['good', 'price', 'delivery']",Five Stars,1434844800,,,,,,,,,26,Positive
+5.0,True,"11 22, 2013",A1EUO0BU72JR7T,B00DM8J11Q,Bilbo,"['cheap', 'fix', 'old', 'washer', 'take', 'agitator', 'put', 'replace', 'agitator', 'youre', 'back', 'business', 'even', 'flip', 'old', 'one', 'around', 'sometimes', 'get', 'bit', 'use', 'cheap', 'enough', 'put', 'youre', 'going', 'take', 'time', 'fix', 'washer', 'anyway']",Perfect replacement for aging agitator-type washers...,1385078400,,,,,,,,,296,Positive
+5.0,False,"05 14, 2015",AFUVGAUNQVT0S,B00DM8J11Q,Brian M.,"['common', 'failure', 'whilrlpool', 'agitator', 'year', 'service', 'im', 'replacement', 'part', 'van']",Common failure with the whilrlpool agitator after a few years ...,1431561600,,,,,,,,,129,Positive
+5.0,True,"12 10, 2014",AVGG8CYK8K312,B00DM8JA7Q,Larry,"['great', 'buy', 'replace', 'alot', 'seem', 'fit', 'fine']",Lid switch,1418169600,,,,,,,,,66,Positive
+1.0,True,"11 2, 2013",A2HDUVKXR5CM7H,B00DM8JA7Q,MIKE,"['piece', 'garbage', 'switch', 'set', 'high', 'shut', 'couldnt', 'return', 'taken', 'package', 'else', 'know', 'work', 'dont', 'take', 'try', 'bad', 'return', 'policy']",does not work as promised,1383350400,,,,,,,,,206,Negative
+5.0,True,"11 25, 2014",A11SCLK8GDDN3C,B00DM8JA7Q,mrclobhead,"['fine', 'item', 'work', 'great']",Five Stars,1416873600,,,,,,,,,30,Positive
+5.0,True,"02 23, 2015",A26M3TN8QICJ3K,B00DM8JA7Q,Marty Baker,"['excellent', 'exactly', 'needed']",Five Stars,1424649600,,,,,,,,,33,Positive
+5.0,True,"11 10, 2014",A2O7BWHBIV1HWZ,B00DM8JA7Q,A/C dude,"['worked', 'great']",Five Stars,1415577600,,,,,,,,,12,Positive
+5.0,False,"03 26, 2015",A2OP8DEIIUESP,B00JGTUQJ6,Chris,"['worked', 'great', 'half', 'price']",Worked great,1427328000,, 3-Pack,,,,,,,30,Positive
+5.0,False,"03 26, 2015",A2OP8DEIIUESP,B00JGTUQJ6,Chris,"['good', 'expensive', 'filter', 'used', 'buy', 'taste', 'function', 'much', 'lower', 'price']",Just like the more expensive filters,1427328000,, 2-Pack,,,,,,,110,Positive
+5.0,False,"04 8, 2015",ALZOND1IEW8KS,B00JGTUQJ6,Bill,"['filter', 'work', 'like', 'expensive', 'filter']",works great,1428451200,,,,,,,,,49,Positive
+5.0,False,"03 26, 2015",A2OP8DEIIUESP,B00JGTUQJ6,Chris,"['seen', 'bad', 'review', 'dont', 'know', 'always', 'work', 'great', 'maybe', 'people', 'arent', 'installing', 'correctly']",Always work the way they are supposed to.,1427328000,,,,,,,,,128,Positive
+5.0,False,"04 8, 2015",ALZOND1IEW8KS,B00JGTUQJ6,Bill,"['great', 'product', 'better', 'price']",Great product,1428451200,, 3-Pack,,,,,,,31,Positive
+5.0,True,"03 3, 2016",A2V0JXLJ9VCNNX,B00MGMWTQS,Amazon Customer,['right'],Five Stars,1456963200,,,,,,,,,13,Positive
+5.0,True,"07 10, 2015",A3H61AMBJ177DG,B00MGMWTQS,Randy Bailey,['advertised'],Five Stars,1436486400,,,,,,,,,13,Positive
+5.0,True,"11 13, 2013",A1EUO0BU72JR7T,B00MGMWTQS,Bilbo,"['allplastic', 'insert', 'one', 'better', 'one', 'metal', 'one', 'used', 'one', 'metal', 'insert', 'one', 'short', 'insert', 'spun', 'inside', 'coupler', 'made', 'replace', 'pry', 'metal', 'insert', 'shaft', 'annoying', 'part']","Great coupler - use the all-plastic ones, not the ones with the metal spline insert...",1384300800,,,,,,,,,291,Positive
+5.0,True,"07 4, 2015",A6FPI5CM4W5WB,B00MGMWTQS,Tim Veteto,['great'],Great,1435968000,,,,,,,,,5,Positive
+5.0,True,"08 11, 2014",AVGG8CYK8K312,B00MGMWTQS,Larry,"['satisfied', 'love', 'price', 'prompt', 'courteous', 'service']",Five Stars,1407715200,,,,,,,,,64,Positive
+5.0,True,"02 28, 2018",A23KSPVPHZF6EO,B00P9C66PM,Angela Samos Guardia,"['work', 'great', 'wonderful', 'product', 'worked', 'good']",Five Stars,1519776000,,,,,,,,,51,Positive
+5.0,True,"01 5, 2016",A2V0JXLJ9VCNNX,B00P9C66PM,Amazon Customer,"['washer', 'spinning']",Five Stars,1451952000,,,,,,,,,20,Positive
+5.0,True,"07 4, 2015",A13391AZAFJ67K,B00P9C66PM,Fred A,['good'],Five Stars,1435968000,,,,,,,,,4,Positive
+5.0,True,"08 13, 2015",A37DQO5LU8DXTV,B00P9C66PM,Easy Appliance,"['good', 'job']",Five Stars,1439424000,,,,,,,,,8,Positive
+5.0,True,"11 20, 2014",A37DQO5LU8DXTV,B00W4YKCGC,Easy Appliance,['good'],Five Stars,1416441600,,,,,,,,,4,Positive
+5.0,True,"12 5, 2016",A3GP2HMB2AFOKF,B00W4YKCGC,Juan,"['great', 'product', 'fast', 'shipping']",Five Stars,1480896000,,,,,,,,,27,Positive
+5.0,True,"08 29, 2014",A1H2V1GNEY4LZ0,B00W4YKCGC,Handyman,"['work', 'perfectly', 'time']",Could not beat the great price and fast delivery!,1409270400,,,,,,,,,27,Positive
+5.0,True,"07 10, 2015",A3H61AMBJ177DG,B00W4YKCGC,Randy Bailey,['advertised'],Five Stars,1436486400,,,,,,,,,14,Positive
+5.0,True,"08 11, 2014",AVGG8CYK8K312,B00W4YKCGC,Larry,"['use', 'regular', 'job', 'love', 'pricing']",Five Stars,1407715200,,,,,,,,,53,Positive
